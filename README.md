@@ -24,9 +24,6 @@ The goal is to apply theoretical knowledge from the **embedded electronics modul
 ✔️ Gain hands-on experience in **Arduino programming**  
 ✔️ Develop a practical **electronic security solution**  
 
-## ⚠️ Disclaimer  
-This project was developed **for academic and learning purposes only**. Any replication or use should comply with ethical and legal standards.  
-
 ---
 
 🚀 **Developed as part of an Embedded Electronics coursework.**  
